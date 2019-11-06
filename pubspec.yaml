@@ -1,0 +1,7 @@
+name: test
+dependencies:
+  hex: ^0.1.2
+  bech32: ^0.1.2
+  web3dart: ^1.2.1
+  pointycastle: ^1.0.1
+  bech32: ^0.1.2
